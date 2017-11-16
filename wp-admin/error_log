@@ -1,0 +1,9 @@
+[14-Nov-2017 18:52:04 UTC] PHP Warning:  sprintf(): Too few arguments in /home/hilaro23/public_html/dandiesclothing/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[14-Nov-2017 18:52:09 UTC] PHP Warning:  sprintf(): Too few arguments in /home/hilaro23/public_html/dandiesclothing/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[14-Nov-2017 18:52:10 UTC] PHP Warning:  sprintf(): Too few arguments in /home/hilaro23/public_html/dandiesclothing/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[14-Nov-2017 18:52:11 UTC] PHP Warning:  sprintf(): Too few arguments in /home/hilaro23/public_html/dandiesclothing/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[14-Nov-2017 18:52:15 UTC] PHP Warning:  sprintf(): Too few arguments in /home/hilaro23/public_html/dandiesclothing/wp-admin/includes/class-bulk-upgrader-skin.php on line 154
+[16-Nov-2017 14:09:00 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hilaro23/public_html/dandiesclothing/wp-content/plugins/veda-demo-importer/importer/import.php on line 39
+[16-Nov-2017 14:15:38 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hilaro23/public_html/dandiesclothing/wp-content/plugins/veda-demo-importer/importer/import.php on line 39
+[16-Nov-2017 14:25:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/hilaro23/public_html/dandiesclothing/wp-content/plugins/veda-demo-importer/importer/import.php on line 39
+[16-Nov-2017 14:32:33 UTC] PHP Warning:  array_merge(): Argument #1 is not an array in /home/hilaro23/public_html/dandiesclothing/wp-content/plugins/revslider/includes/framework/base-admin.class.php on line 430
